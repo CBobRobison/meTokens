@@ -1,17 +1,17 @@
-Welcome to meTokns!
+Welcome to meTokens!
 ===================
-DeFi Enabled Personal Tokens
-############################
 
-meTokens is a personal token protocol built on the Ethereum blockchain. 
+meTokens is a defi-enabled personal token protocol built on the Ethereum blockchain. 
 Tokenize yourself, let anyone invest in your future success, and develop an audience of supporters 
 who are incentivized to see you succeed in every possible way.
 
 meTokens introduce a novel kind of `automated market maker (AMM) alogorithm 
 <https://medium.com/anchordao-lab/automated-market-maker-amm-algorithms-and-its-future-f2d5e6cc624a>`_, 
-called an Automated Discount Market Maker (ADMM). ADMMs trustlessly create flash sales for anyone to buy & spend 
-another person’s meToken. Even though the spender earns a discount for using the ADMM (e.g. "15% off 1 hour of consultation"), 
-the meToken issuer still earn the full value of the sale at no loss (i.e. as if there was no 15% off discount).
+called an **Automated Discount Market Maker (ADMM)**. ADMMs trustlessly create flash sales for anyone to buy & spend 
+another person’s meToken. 
+
+Even though the spender earns a discount for using the ADMM (e.g. *"15% off 1 hour of consultation"*), 
+the meToken issuer still earn the full value of the sale at no loss (i.e. *as if there was no 15% off discount*).
 
 
 
@@ -31,6 +31,7 @@ Definition of personal tokens
    :maxdepth: 2
    :caption: Introduction   
 
+   introduction.rst
    Introduction/topic1
    Introduction/topic2
 
